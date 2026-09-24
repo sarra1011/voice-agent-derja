@@ -1,0 +1,22 @@
+id,intent,text
+u01,report_leak,عسلامة نحب نبلغ على تسرب ماء في الشارع قدام داري
+u02,report_leak,فما fuite d'eau كبيرة في نهج الحرية والماء يخرج من الأرض
+u03,report_leak,الماء يسيل من الكونتور متاعي وما نجمش نسكرو
+u04,report_leak,السلام عليكم نحب نعلم بمشكلة fuite في الكونتور متاعي
+u05,report_leak,الماء يخرج من تحت الطريق من البارح وما جا حد
+u06,report_outage,الماء مقطوع عندنا من الصباح شنوا الحكاية
+u07,report_outage,ما فماش كهرباء في الحومة من ساعتين نحب نعمل signalement
+u08,report_outage,coupure d'eau في حينا وقتاش يرجع الماء
+u09,report_outage,الضو مقطوع وما عندي حتى فكرة علاش
+u10,report_outage,الماء ضعيف برشا في الطابق الثالث تنجم تعاوني
+u11,check_bill,نحب نعرف قداش الفاتورة متاع الماء هذا الشهر
+u12,check_bill,وين نجم نخلص ال facture متاعي
+u13,check_bill,فاتورة الكهرباء جاتني غالية برشا نحب نفهم علاش
+u14,check_bill,نمرو الكونتور متاعي هو 604281
+u15,check_bill,نحب نعرف تاريخ آخر paiement عملتو
+u16,book_technician,نحب technicien يجي يشوف الكونتور نهار الجمعة
+u17,book_technician,نجم نحجز rendez-vous للتقني غدوة الصباح
+u18,book_technician,العنوان متاعي نهج فلسطين عدد 12 المنزه 6
+u19,book_technician,يعطيك الصحة نحب نبدل موعد التقني
+u20,human_handoff,نحب نحكي مع موظف ما نفهمش مع الروبو
+u21,human_handoff,عاوني نحكي مع شخص حقيقي من فضلك

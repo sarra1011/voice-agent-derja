@@ -1,0 +1,22 @@
+id,intent,text,audio_path
+u01,report_leak,عسلامة نحب نبلغ على تسرب ماء في الشارع قدام داري,data/audio\u01.wav
+u02,report_leak,فما fuite d'eau كبيرة في نهج الحرية والماء يخرج من الأرض,data/audio\u02.wav
+u03,report_leak,الماء يسيل من الكونتور متاعي وما نجمش نسكرو,data/audio\u03.wav
+u04,report_leak,السلام عليكم نحب نعلم بمشكلة fuite في الكونتور متاعي,data/audio\u04.wav
+u05,report_leak,الماء يخرج من تحت الطريق من البارح وما جا حد,data/audio\u05.wav
+u06,report_outage,الماء مقطوع عندنا من الصباح شنوا الحكاية,data/audio\u06.wav
+u07,report_outage,ما فماش كهرباء في الحومة من ساعتين نحب نعمل signalement,data/audio\u07.wav
+u08,report_outage,coupure d'eau في حينا وقتاش يرجع الماء,data/audio\u08.wav
+u09,report_outage,الضو مقطوع وما عندي حتى فكرة علاش,data/audio\u09.wav
+u10,report_outage,الماء ضعيف برشا في الطابق الثالث تنجم تعاوني,data/audio\u10.wav
+u11,check_bill,نحب نعرف قداش الفاتورة متاع الماء هذا الشهر,data/audio\u11.wav
+u12,check_bill,وين نجم نخلص ال facture متاعي,data/audio\u12.wav
+u13,check_bill,فاتورة الكهرباء جاتني غالية برشا نحب نفهم علاش,data/audio\u13.wav
+u14,check_bill,نمرو الكونتور متاعي هو 604281,data/audio\u14.wav
+u15,check_bill,نحب نعرف تاريخ آخر paiement عملتو,data/audio\u15.wav
+u16,book_technician,نحب technicien يجي يشوف الكونتور نهار الجمعة,data/audio\u16.wav
+u17,book_technician,نجم نحجز rendez-vous للتقني غدوة الصباح,data/audio\u17.wav
+u18,book_technician,العنوان متاعي نهج فلسطين عدد 12 المنزه 6,data/audio\u18.wav
+u19,book_technician,يعطيك الصحة نحب نبدل موعد التقني,data/audio\u19.wav
+u20,human_handoff,نحب نحكي مع موظف ما نفهمش مع الروبو,data/audio\u20.wav
+u21,human_handoff,عاوني نحكي مع شخص حقيقي من فضلك,data/audio\u21.wav
